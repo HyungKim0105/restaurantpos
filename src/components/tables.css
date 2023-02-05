@@ -1,0 +1,13 @@
+.tables {
+    display: grid;
+    grid-template-areas: "table1 table2 table3" 
+                         "table4 table5 table6";
+    grid-gap: 30px; 
+    padding: 30px;
+    justify-content: space-around;                    
+}
+
+.tables button{
+    height: 35vh;
+    width: 30vw;
+}

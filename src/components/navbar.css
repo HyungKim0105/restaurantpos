@@ -1,0 +1,16 @@
+.navbar {
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    height: 50px;
+    background-color: rgba(160, 212, 82, 0.929);
+    
+}
+
+.navbar h1 {
+    color: whitesmoke;
+}
+.logo {
+    max-width: 90px;
+}
